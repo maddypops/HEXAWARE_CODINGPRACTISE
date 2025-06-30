@@ -1,5 +1,5 @@
 import openpyxl
-import pandas as pd
+import PD as pd
 data = {'name':['tom','nick','krish','jack'],'age':[23,45,58,78]}
 df = pd.DataFrame(data)
 print(df)
